@@ -1,71 +1,46 @@
 <script>
-  export let name;
+  import VisionPage from "./pages/Vision.svelte";
+  import PlanPage from "./pages/Plan.svelte";
+  import EquipePage from "./pages/Equipe.svelte";
+  import Navbar from "./Navbar.svelte";
+  import Footer from "./Footer.svelte";
+
+  window.addEventListener("hashchange", e => {
+    location.hash = ["#vision", "#plan", "#equipe"].includes(location.hash)
+      ? location.hash
+      : "#vision";
+    console.log(ref);
+    ref[location.hash.substr(1)].scrollIntoView({
+      behavior: "smooth",
+      block: "center"
+    });
+  });
+
+  const ref = {
+    vision: null,
+    equipe: null,
+    plan: null
+  };
 </script>
 
-<nav
-  class="uk-navbar-container uk-margin uk-navbar-sticky uk-navbar-transparent"
-  uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
-  <div class="uk-navbar-left">
+<Navbar />
 
-    <a class="uk-navbar-item uk-logo" href="#">Logo</a>
+<img
+  src="https://www.tla-architectes.com/wp-content/uploads/2015/12/CollegeJeanEudes-05.jpg"
+  alt="collegejeaneudes"
+  width="100%"
+  style="width:100vw" />
 
-    <ul class="uk-navbar-nav">
-      <li>
-        <a href="#">
-          <span class="uk-icon uk-margin-small-right" uk-icon="icon: star" />
-          Features
-        </a>
-      </li>
-    </ul>
-
-    <div class="uk-navbar-item">
-      <div>
-        <a href="#">Link</a>
-      </div>
-    </div>
-
-  </div>
-</nav>
-
-<div
-  class="uk-child-width-1-3@m"
-  uk-grid
-  uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 500; repeat:
-  true">
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-  <div>
-    <div class="uk-card uk-card-default uk-card-body">
-      <h3 class="uk-card-title">Fade</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
+<div bind:this={ref.vision}>
+  <VisionPage />
 </div>
+
+<div bind:this={ref.equipe}>
+  <EquipePage />
+</div>
+
+<div bind:this={ref.plan}>
+  <PlanPage />
+</div>
+
+<Footer />
