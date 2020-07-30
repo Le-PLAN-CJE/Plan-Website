@@ -1,30 +1,71 @@
 <script>
-	export let name;
+  export let name;
 </script>
 
-<main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-</main>
+<nav
+  class="uk-navbar-container uk-margin uk-navbar-sticky uk-navbar-transparent"
+  uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
+  <div class="uk-navbar-left">
 
-<style>
-	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
-	}
+    <a class="uk-navbar-item uk-logo" href="#">Logo</a>
 
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="#">
+          <span class="uk-icon uk-margin-small-right" uk-icon="icon: star" />
+          Features
+        </a>
+      </li>
+    </ul>
 
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	}
-</style>
+    <div class="uk-navbar-item">
+      <div>
+        <a href="#">Link</a>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+<div
+  class="uk-child-width-1-3@m"
+  uk-grid
+  uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 500; repeat:
+  true">
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+  <div>
+    <div class="uk-card uk-card-default uk-card-body">
+      <h3 class="uk-card-title">Fade</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+</div>
