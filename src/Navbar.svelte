@@ -1,14 +1,22 @@
+<style>
+  .betterNav,
+  .betterNav li a {
+    min-height: 50px;
+  }
+</style>
+
 <nav
   class="uk-navbar-container uk-margin uk-navbar-sticky "
-  style="background: rgba(255,255,255,0.8); "
+  style="background: rgba(255,255,255,0.8); padding-top: 5px; padding-bottom:
+  5px;"
   uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
-  <div class="uk-navbar-left">
+  <div class="uk-navbar-left ">
 
-    <a class="uk-navbar-item uk-logo" href="#" style="">
+    <a class="uk-navbar-item uk-logo betterNav" href="#accueil" style="">
       <img src="favicon.png" width="35" />
     </a>
 
-    <ul class="uk-navbar-nav" style="margin-right: auto;">
+    <ul class="uk-navbar-nav betterNav" style="margin-right: auto;">
       <li>
         <a href="#vision">
           <span class="uk-icon uk-margin-small-right" uk-icon="world" />
@@ -31,7 +39,7 @@
 
     </ul>
 
-    <div class="uk-navbar-item">
+    <div class="betterNav uk-navbar-item">
       <a target="_blank" href="https://www.instagram.com/le.plan.cje/">
         <span
           class="uk-icon uk-margin-small-right"

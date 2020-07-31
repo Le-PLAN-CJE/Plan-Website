@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bogdan-Alexandru Sava",
+    "level": "5",
+    "role": ["Président", "Responsable de l'innovation"],
+    "imageURL": ""
+  },
+  {
+    "name": "Justin Paradis",
+    "level": "5",
+    "role": ["Vice-Président", "Responsable des finances"],
+    "imageURL": ""
+  },
+  {
+    "name": "Wei Heng Jiang",
+    "level": "5",
+    "role": ["Conseiller", "Responsable des technologies"],
+    "imageURL": ""
+  }
+]

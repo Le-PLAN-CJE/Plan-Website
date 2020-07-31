@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Environnement",
+    "color": "#1d8f10",
+    "description": "L'environnement, c'est ça le PLAN",
+    "measures": [
+      {
+        "title": "Jardin sur le toit",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations",
+        "imageURL": ""
+      },
+      {
+        "title": "Expo-solutions",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations",
+        "imageURL": ""
+      }
+    ]
+  },
+  {
+    "title": "Vie Étudiante",
+    "color": "#ff6f00",
+    "description": "Une vie étudiante épanouie, c'est ça le PLAN",
+    "measures": [
+      {
+        "title": "Les clubs",
+        "description": "Des clubs, c'est ça le PLAN",
+        "state": "Mis en place"
+      },
+      {
+        "title": "Animer l'agora",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations"
+      },
+      {
+        "title": "Les conférences",
+        "description": "Des conférences à la salle Jean-Eudes, c'est ça le PLAN",
+        "state": "En négociations"
+      },
+      {
+        "title": "Un hymne collègial",
+        "description": "Le collègialisme, c'est ça le PLAN",
+        "state": "En négociations"
+      }
+    ]
+  },
+  {
+    "title": "Arts et culture",
+    "color": "#14648f",
+    "description": "Plus de reconnaissance pout les arts, c'est ça le PLAN",
+    "measures": [
+      {
+        "title": "Gallerie en ligne",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "Commencé",
+        "imageURL": ""
+      },
+      {
+        "title": "Portfolios virtuels",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations",
+        "imageURL": ""
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "color": "#d41a1a",
+    "description": "Plus de reconnaissance pout les sports, c'est ça le PLAN",
+    "measures": [
+      {
+        "title": "Jardin sur le toit",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations",
+        "imageURL": ""
+      },
+      {
+        "title": "Jardin sur le toit",
+        "description": "Un jardin sur le toit, c'est ça le PLAN",
+        "state": "En négociations",
+        "imageURL": ""
+      }
+    ]
+  }
+]
