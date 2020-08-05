@@ -15,7 +15,8 @@
       <div
         class="uk-position-relative uk-visible-toggle"
         tabindex="-1"
-        uk-slideshow="animation: push; autoplay: true; ratio: 2:3">
+        uk-slideshow="animation: push; autoplay: true; ratio: 2:3;
+        autoplay-interval: 3000">
         <ul class="uk-slideshow-items">
           {#each slideshow.members as member}
             <li>
