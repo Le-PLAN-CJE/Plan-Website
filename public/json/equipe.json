@@ -1,20 +1,81 @@
 [
   {
-    "name": "Bogdan-Alexandru Sava",
-    "level": "5",
-    "role": ["Président", "Responsable de l'innovation"],
-    "imageURL": ""
+    "title": "Secondaire 5",
+    "members": [
+      {
+        "name": "Bogdan-Alexandru Sava",
+        "level": "5",
+        "roles": ["Président", "Responsable de l'innovation"],
+        "imageURL": "https://cdn.discordapp.com/attachments/740607471168520202/740657680061956136/53510674_107899557036405_7071252233651748864_o.png"
+      }
+    ]
   },
   {
-    "name": "Justin Paradis",
-    "level": "5",
-    "role": ["Vice-Président", "Responsable des finances"],
-    "imageURL": ""
+    "title": "Secondaire 4",
+    "members": [
+      {
+        "name": "Justin Paradis",
+        "level": "5",
+        "roles": ["Vice-Président", "Responsable des finances"],
+        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+      },
+      {
+        "name": "Wei Heng Jiang",
+        "level": "5",
+        "roles": ["Conseiller", "Responsable des technologies"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+      }
+    ]
   },
   {
-    "name": "Wei Heng Jiang",
-    "level": "5",
-    "role": ["Conseiller", "Responsable des technologies"],
-    "imageURL": ""
+    "title": "Secondaire 3",
+    "members": [
+      {
+        "name": "Justin Paradis",
+        "level": "5",
+        "roles": ["Vice-Président", "Responsable des finances"],
+        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+      },
+      {
+        "name": "Wei Heng Jiang",
+        "level": "5",
+        "roles": ["Conseiller", "Responsable des technologies"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Secondaire 2 et 1",
+    "members": [
+      {
+        "name": "Justin Paradis",
+        "level": "5",
+        "roles": ["Vice-Président", "Responsable des finances"],
+        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+      },
+      {
+        "name": "Wei Heng Jiang",
+        "level": "5",
+        "roles": ["Conseiller", "Responsable des technologies"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Remerciements",
+    "members": [
+      {
+        "name": "Justin Paradis",
+        "level": "5",
+        "roles": ["Vice-Président", "Responsable des finances"],
+        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+      },
+      {
+        "name": "Wei Heng Jiang",
+        "level": "5",
+        "roles": ["Conseiller", "Responsable des technologies"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+      }
+    ]
   }
 ]
