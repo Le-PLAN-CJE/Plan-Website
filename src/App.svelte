@@ -62,11 +62,11 @@
 <div class="uk-container">
   <div bind:this={ref.vision} class="moreSpace">
     {#await axios.get('json/vision.json')}
-      A moment please
+      Un moment s'il vous plaît...
     {:then res}
       <VisionPage {res} />
     {:catch error}
-      Something went wrong
+      Une erreur s'est produite.
     {/await}
   </div>
 

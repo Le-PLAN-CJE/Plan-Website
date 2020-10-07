@@ -5,17 +5,70 @@
     "description": "Un Collège vert, c'est ça le PLAN",
     "measures": [
       {
-        "title": "Jardin sur le toit",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations",
+        "title": "Expo-solutions",
+        "description": "Nous savons tous.tes que nous sommes en situation de crise climatique. Mais quelles sont les
+        solutions concrètes qui s’offrent à nous? C’est ce que vise à présenter l'Expo-solutions. Sous le format
+        de l’Expo-sciences, l’Expo-solutions serait une initiative locale où des élèves pourraient
+        présenter le fruit de leurs recherches en lien avec des solutions à la crise climatique. Que ce
+        soient des solutions en lien direct avec ce que nous pouvons faire en tant qu'écocitoyen.ne.s ou des
+        mesures qui pourraient être prises par le Collège, nous souhaitons que des élèves
+        motivé.e.s et intéressé.e.s nous partagent leurs idées.",
+        "state": "Validée",
         "imageURL": ""
       },
       {
-        "title": "Expo-solutions",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations",
+        "title": "Installation d'un Électrobac",
+        "description": "Les Électrobacs visent à servir à la cueillette de petits électroniques, par exemple des cartes
+        Opus, afin de permettre leur recyclage approprié. Ces déchets électroniques ne sont en effet
+        pas recyclés lorsqu’on les jette au recyclage. Nous souhaitons donc en installer un ou plusieurs
+        au Collège, afin de réduire l’impact écologique des déchets des élèves et des membres du personnel. Les
+        électroniques contenant de plus des métaux rares, il est très important de les recycler responsablement afin
+        d’éviter l’épuisement inutile des ressources.",
+        "state": "Validée",
         "imageURL": ""
-      }
+      },
+      {
+        "title": "Ajout de supports à vélos",
+        "description": "Vu le défi sanitaire qu’entraîne le transport en commun, de plus en plus d’élèves prennent leur
+        vélo pour se rendre au Collège tous les matins. Comme c’est une solution écoresponsable et
+        sécuritaire, le Plan souhaite soutenir ces élèves. Comme le nombre d'élèves-cyclistes est toujours
+        grandissant, nous souhaitons ajouter des supports à vélos supplémentaires dans la Place des
+        Anciens, car leur nombre actuel ne suffit pas. (Contrairement à la croyance
+        populaire, les arbres et poteaux utilisés fréquemment par des élèves ne sont pas des supports
+        à vélo. Je sais, c’est troublant.)",
+        "state": "Validée",
+        "imageURL": ""
+      },
+      {
+        "title": "Organisation d'un atelier sur la réparation des vélos",
+        "description": "De plus en plus d’élèves utilisent leur vélo pour venir au Collège. Nous souhaitons donc organiser
+        des ateliers d’information sur la réparation des vélos afin que, si jamais un problème survient
+        sur le chemin de l’école, cela ne cause pas de retard, d’absence ou d’autres inconvénients
+        désagréables. Pour cela, nous ferions appel à des spécialistes dans le domaine.",
+        "state": "Validée",
+        "imageURL": ""
+      },
+      {
+        "title": "Ajout d’un corridor cyclable à la place des anciens",
+        "description": "Avez-vous déjà essayé de rentrer ou sortir de la place des anciens à l’heure de pointe des
+        automobiles? Si oui, vous savez à quel point c’est dangereux et effrayant. Nous voulons donc
+        installer un corridor cyclable dans le tourne-bride afin de permettre aux élèves-cyclistes de
+        circuler en toute sécurité. Bien sûr, nous comprenons que plusieurs automobilistes ont besoin
+        de circuler à cet endroit tous les jours, donc nous nous assurerons de ne pas empêcher la
+        circulation des voitures, mais plutôt de rendre le partage de la route le plus facile possible.",
+        "state": "Validée",
+        "imageURL": ""
+      },
+      {
+        "title": "Ajout de plantes à l’intérieur et à l'extérieur du Collège",
+        "description": "À plusieurs endroits dans le Collège, par exemple dans l’agora, il y a des lieux où on pourrait
+        ajouter des plantes vivantes afin d’égayer l’atmosphère et de créer un milieu plus convivial. De
+        plus, nous savons tous.tes que les plantes absorbent le dioxyde de carbone, le principal gaz à
+        effet de serre. Mettre plus de plantes à l’intérieur et à l’extérieur du Collège permettrait alors de diminuer un peu son empreinte carbone. Nous souhaiterions donc travailler avec le comité du potager afin de créer des îlots verts au sein même du Collège.
+        ",
+        "state": "Validée",
+        "imageURL": ""
+      },
     ]
   },
   {
@@ -67,7 +120,7 @@
   {
     "title": "Sports",
     "color": "#d41a1a",
-    "description": "Plus de reconnaissance pour les Aigles, c'est ça le PLAN",
+    "description": "Plus de reconnaissance pour nos Aigles, c'est ça le PLAN",
     "measures": [
       {
         "title": "Jardin sur le toit",
