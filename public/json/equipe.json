@@ -5,9 +5,15 @@
       {
         "name": "Bogdan-A. Sava",
         "level": "5",
-        "roles": ["Président", "Responsable de l'innovation"],
-        "imageURL": "https://cdn.discordapp.com/attachments/740607471168520202/740657680061956136/53510674_107899557036405_7071252233651748864_o.png"
-      }
+        "roles": ["Président"],
+        "imageURL": "https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/120793337_986270121872500_348292481190959263_n.jpg?_nc_ht=instagram.fymy1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ByoR7ppFeWQAX9jhnOR&_nc_tp=19&oh=acaba9d0f907bc915b76d8d27742cebc&oe=5FA7102A"
+      },
+      {
+        "name": "Sofia Forlini",
+        "level": "5",
+        "roles": ["Vice-présidente"],
+        "imageURL": "https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/120793337_986270121872500_348292481190959263_n.jpg?_nc_ht=instagram.fymy1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ByoR7ppFeWQAX9jhnOR&_nc_tp=19&oh=acaba9d0f907bc915b76d8d27742cebc&oe=5FA7102A"
+      },
     ]
   },
   {

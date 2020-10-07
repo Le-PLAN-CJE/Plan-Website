@@ -60,11 +60,26 @@
         "imageURL": ""
       },
       {
-        "title": "Ajout de plantes à l’intérieur et à l'extérieur du Collège",
-        "description": "À plusieurs endroits dans le Collège, par exemple dans l’agora, il y a des lieux où on pourrait
-        ajouter des plantes vivantes afin d’égayer l’atmosphère et de créer un milieu plus convivial. De
-        plus, nous savons tous.tes que les plantes absorbent le dioxyde de carbone, le principal gaz à
-        effet de serre. Mettre plus de plantes à l’intérieur et à l’extérieur du Collège permettrait alors de diminuer un peu son empreinte carbone. Nous souhaiterions donc travailler avec le comité du potager afin de créer des îlots verts au sein même du Collège.
+        "title": "Opération DEL",
+        "description": "Saviez-vous qu’une ampoule DEL a une longévité d’environ 40 000 heures d’éclairages, alors
+        qu’une ampoule fluocompacte en a une de 10 000 heures et qu’une ampoule halogène ne
+        donne qu’environ 2000 heures d’éclairage? De plus, une ampoule DEL consomme consomme
+        8 à 10 fois moins d’énergie qu’une ampoule conventionnelle et jusqu’à 5 fois moins d’énergie
+        qu’une ampoule dite « à basse consommation ». Nous souhaitons donc procéder à une
+        transition vers l’utilisation généralisée des ampoules DEL au Collège, afin de diminuer sa
+        production de déchets, sa consommation d’ampoules et sa consommation d’énergie.
+        ",
+        "state": "Validée",
+        "imageURL": ""
+      },
+      {
+        "title": "Plantation de trèfles blancs au parc-école",
+        "description": "Le trèfle blanc est une variété de micro-trèfle qui nécessite très peu d’entretien et d’arrosage,
+        en plus de ne pas avoir besoin d’engrais chimiques et d’enrichir le sol en azote. En plantant du
+        trèfle blanc dans le parc-école, on diminuerait de beaucoup l’utilisation d’engrais chimiques
+        néfastes pour l’environnement et la quantité d’eau utilisée pour arroser les étendues d’herbe
+        du Collège. De plus, le trèfle blanc est esthétiquement plaisant et très confortable pour s’assoir
+        par terre et faire ses devoirs sur l’heure du dîner…
         ",
         "state": "Validée",
         "imageURL": ""
@@ -77,19 +92,37 @@
     "description": "Une vie étudiante riche, animée et diversifiée, c'est ça le PLAN",
     "measures": [
       {
-        "title": "Les clubs",
-        "description": "Des clubs, c'est ça le PLAN",
-        "state": "Mis en place"
+        "title": "Création d'une coopérative scolaire",
+        "description": "Il nous est tous.tes arrivé, par une stressante journée d’examen, d’oublier notre gomme à effacer 
+        à la maison, ou alors de se retrouver à court de feuilles mobiles au milieu de la journée, alors
+        qu’on en a vraiment besoin. De plus, combien d’entre nous ont-ils réalisé qu’ils devaient
+        acheter un roman pour le lendemain, alors que celui-ci est à proprement dire introuvable?
+        C’est dans ces cas-ci que la coopérative serait utile; on y vendrait en effet des effets scolaires
+        et des manuels et livres scolaires usagés. La coopérative travaillerait en collaboration avec le
+        Magasin du Monde et la Friperie. Elle fonctionnerait grâce à des généreux bénévoles qui
+        voudraient donner de leur temps et, pour sa mise en place et sa gestion, nous travaillerions
+        avec l’organisme CoopSco. La coopérative viserait aussi à donner une deuxième vie aux objets 
+        scolaires arrivnant en fin d'année.",
+        "state": "Validée"
       },
       {
-        "title": "Animer l'agora",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations"
+        "title": "CJE Nouvelles",
+        "description": "Dans notre contexte mondial actuel, il est primordial de se tenir informé de l’actualité, mais il
+        devient difficile de démêler le vrai du faux. Nous souhaitons donc mettre en place un site web
+        du nom de CJE Nouvelles, qui servirait cinq objectif. Premièrement, présenter des articles
+        traitant de l’actualité mondiale ou nationale et des liens vers des articles de quotidiens et sites
+        reconnus traitant de sujets variés. Deuxièmement, permettre à des élèves de publier des textes
+        d’opinions sur des sujets, d’actualité ou non. Troisièmement, permettre un accès facile aux
+        anciens épisodes de la radio-étudiante. Quatrièmement, partager les oeuvres d’art et les relais
+        des élèves d’art. Cinquièmement et dernièrement, partager les nouvelles des Aigles: les
+        victoires, les matchs à venir, les individus s’étant démarqués, les essais à venir...
+        ",
+        "state": "Prototype"
       },
       {
         "title": "Les conférences",
         "description": "Des conférences à la salle Jean-Eudes, c'est ça le PLAN",
-        "state": "En négociations"
+        "state": "Validée"
       },
       {
         "title": "Un hymne collègial",
