@@ -1,91 +1,5 @@
 [
-  {
-    "title": "Environnement",
-    "color": "#1d8f10",
-    "description": "Un Collège vert, c'est ça le PLAN",
-    "measures": [
-      {
-        "title": "Expo-solutions",
-        "description": "Nous savons tous.tes que nous sommes en situation de crise climatique. Mais quelles sont les
-        solutions concrètes qui s’offrent à nous? C’est ce que vise à présenter l'Expo-solutions. Sous le format
-        de l’Expo-sciences, l’Expo-solutions serait une initiative locale où des élèves pourraient
-        présenter le fruit de leurs recherches en lien avec des solutions à la crise climatique. Que ce
-        soient des solutions en lien direct avec ce que nous pouvons faire en tant qu'écocitoyen.ne.s ou des
-        mesures qui pourraient être prises par le Collège, nous souhaitons que des élèves
-        motivé.e.s et intéressé.e.s nous partagent leurs idées.",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Installation d'un Électrobac",
-        "description": "Les Électrobacs visent à servir à la cueillette de petits électroniques, par exemple des cartes
-        Opus, afin de permettre leur recyclage approprié. Ces déchets électroniques ne sont en effet
-        pas recyclés lorsqu’on les jette au recyclage. Nous souhaitons donc en installer un ou plusieurs
-        au Collège, afin de réduire l’impact écologique des déchets des élèves et des membres du personnel. Les
-        électroniques contenant de plus des métaux rares, il est très important de les recycler responsablement afin
-        d’éviter l’épuisement inutile des ressources.",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Ajout de supports à vélos",
-        "description": "Vu le défi sanitaire qu’entraîne le transport en commun, de plus en plus d’élèves prennent leur
-        vélo pour se rendre au Collège tous les matins. Comme c’est une solution écoresponsable et
-        sécuritaire, le Plan souhaite soutenir ces élèves. Comme le nombre d'élèves-cyclistes est toujours
-        grandissant, nous souhaitons ajouter des supports à vélos supplémentaires dans la Place des
-        Anciens, car leur nombre actuel ne suffit pas. (Contrairement à la croyance
-        populaire, les arbres et poteaux utilisés fréquemment par des élèves ne sont pas des supports
-        à vélo. Je sais, c’est troublant.)",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Organisation d'un atelier sur la réparation des vélos",
-        "description": "De plus en plus d’élèves utilisent leur vélo pour venir au Collège. Nous souhaitons donc organiser
-        des ateliers d’information sur la réparation des vélos afin que, si jamais un problème survient
-        sur le chemin de l’école, cela ne cause pas de retard, d’absence ou d’autres inconvénients
-        désagréables. Pour cela, nous ferions appel à des spécialistes dans le domaine.",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Ajout d’un corridor cyclable à la place des anciens",
-        "description": "Avez-vous déjà essayé de rentrer ou sortir de la place des anciens à l’heure de pointe des
-        automobiles? Si oui, vous savez à quel point c’est dangereux et effrayant. Nous voulons donc
-        installer un corridor cyclable dans le tourne-bride afin de permettre aux élèves-cyclistes de
-        circuler en toute sécurité. Bien sûr, nous comprenons que plusieurs automobilistes ont besoin
-        de circuler à cet endroit tous les jours, donc nous nous assurerons de ne pas empêcher la
-        circulation des voitures, mais plutôt de rendre le partage de la route le plus facile possible.",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Opération DEL",
-        "description": "Saviez-vous qu’une ampoule DEL a une longévité d’environ 40 000 heures d’éclairages, alors
-        qu’une ampoule fluocompacte en a une de 10 000 heures et qu’une ampoule halogène ne
-        donne qu’environ 2000 heures d’éclairage? De plus, une ampoule DEL consomme consomme
-        8 à 10 fois moins d’énergie qu’une ampoule conventionnelle et jusqu’à 5 fois moins d’énergie
-        qu’une ampoule dite « à basse consommation ». Nous souhaitons donc procéder à une
-        transition vers l’utilisation généralisée des ampoules DEL au Collège, afin de diminuer sa
-        production de déchets, sa consommation d’ampoules et sa consommation d’énergie.
-        ",
-        "state": "Validée",
-        "imageURL": ""
-      },
-      {
-        "title": "Plantation de trèfles blancs au parc-école",
-        "description": "Le trèfle blanc est une variété de micro-trèfle qui nécessite très peu d’entretien et d’arrosage,
-        en plus de ne pas avoir besoin d’engrais chimiques et d’enrichir le sol en azote. En plantant du
-        trèfle blanc dans le parc-école, on diminuerait de beaucoup l’utilisation d’engrais chimiques
-        néfastes pour l’environnement et la quantité d’eau utilisée pour arroser les étendues d’herbe
-        du Collège. De plus, le trèfle blanc est esthétiquement plaisant et très confortable pour s’assoir
-        par terre et faire ses devoirs sur l’heure du dîner…
-        ",
-        "state": "Validée",
-        "imageURL": ""
-      }
-    ]
-  },
+  
   {
     "title": "Vie Étudiante",
     "color": "#ff6f00",
@@ -93,30 +7,12 @@
     "measures": [
       {
         "title": "Création d'une coopérative scolaire",
-        "description": "Il nous est tous.tes arrivé, par une stressante journée d’examen, d’oublier notre gomme à effacer 
-        à la maison, ou alors de se retrouver à court de feuilles mobiles au milieu de la journée, alors
-        qu’on en a vraiment besoin. De plus, combien d’entre nous ont-ils réalisé qu’ils devaient
-        acheter un roman pour le lendemain, alors que celui-ci est à proprement dire introuvable?
-        C’est dans ces cas-ci que la coopérative serait utile; on y vendrait en effet des effets scolaires
-        et des manuels et livres scolaires usagés. La coopérative travaillerait en collaboration avec le
-        Magasin du Monde et la Friperie. Elle fonctionnerait grâce à des généreux bénévoles qui
-        voudraient donner de leur temps et, pour sa mise en place et sa gestion, nous travaillerions
-        avec l’organisme CoopSco. La coopérative viserait aussi à donner une deuxième vie aux objets 
-        scolaires arrivnant en fin d'année.",
+        "description": "Il nous est tous.tes arrivé, par une stressante journée d’examen, d’oublier notre gomme à effacer à la maison, ou alors de se retrouver à court de feuilles mobiles au milieu de la journée, alors qu’on en a vraiment besoin. De plus, combien d’entre nous ont-ils réalisé qu’ils devaient acheter un roman pour le lendemain, alors que celui-ci est à proprement dire introuvable? C’est dans ces cas-ci que la coopérative serait utile; on y vendrait en effet des effets scolaires et des manuels et livres scolaires usagés. La coopérative travaillerait en collaboration avec le Magasin du Monde et la Friperie. Elle fonctionnerait grâce à des généreux bénévoles qui voudraient donner de leur temps et, pour sa mise en place et sa gestion, nous travaillerions avec l’organisme CoopSco. La coopérative viserait aussi à donner une deuxième vie aux objets scolaires arrivant en fin d'année.",
         "state": "Validée"
       },
       {
         "title": "CJE Nouvelles",
-        "description": "Dans notre contexte mondial actuel, il est primordial de se tenir informé de l’actualité, mais il
-        devient difficile de démêler le vrai du faux. Nous souhaitons donc mettre en place un site web
-        du nom de CJE Nouvelles, qui servirait cinq objectif. Premièrement, présenter des articles
-        traitant de l’actualité mondiale ou nationale et des liens vers des articles de quotidiens et sites
-        reconnus traitant de sujets variés. Deuxièmement, permettre à des élèves de publier des textes
-        d’opinions sur des sujets, d’actualité ou non. Troisièmement, permettre un accès facile aux
-        anciens épisodes de la radio-étudiante. Quatrièmement, partager les oeuvres d’art et les relais
-        des élèves d’art. Cinquièmement et dernièrement, partager les nouvelles des Aigles: les
-        victoires, les matchs à venir, les individus s’étant démarqués, les essais à venir...
-        ",
+        "description": "Dans notre contexte mondial actuel, il est primordial de se tenir informé de l’actualité, mais il devient difficile de démêler le vrai du faux. Nous souhaitons donc mettre en place un site web du nom de CJE Nouvelles, qui servirait cinq objectif. Premièrement, présenter des articles traitant de l’actualité mondiale ou nationale et des liens vers des articles de quotidiens et sites reconnus traitant de sujets variés. Deuxièmement, permettre à des élèves de publier des textes d’opinion sur des sujets, d’actualité ou non. Troisièmement, permettre un accès facile aux anciens épisodes de la radio-étudiante. Quatrièmement, partager les oeuvres d’art et les relais des élèves d’art. Cinquièmement et dernièrement, partager les nouvelles des Aigles: les victoires, les matchs à venir, les individus s’étant démarqués, les essais à venir...",
         "state": "Prototype"
       },
       {
