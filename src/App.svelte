@@ -6,6 +6,8 @@
   import Footer from "./Footer.svelte";
   import axios from "axios";
 
+  const proxy = "";
+
   window.addEventListener("hashchange", e => {
     location.hash = ["#accueil", "#vision", "#plan", "#equipe"].includes(
       location.hash
@@ -61,10 +63,11 @@
 
 <div class="uk-container">
   <div bind:this={ref.vision} class="moreSpace">
-    {#await axios.get('json/vision.json')}
+    {#await axios.get(proxy + 'json/vision.json')}
       Un moment s'il vous plaît...
     {:then res}
       <VisionPage {res} />
+      allo
     {:catch error}
       Une erreur s'est produite.
     {/await}
@@ -73,24 +76,24 @@
   <hr />
 
   <div bind:this={ref.equipe} class="moreSpace">
-    {#await axios.get('json/equipe.json')}
-      A moment please
+    {#await axios.get(proxy + 'json/equipe.json')}
+      Un moment s'il vous plaît...
     {:then res}
       <EquipePage {res} />
     {:catch error}
-      Something went wrong
+      Une erreur s'est produite.
     {/await}
   </div>
 
   <hr />
 
   <div bind:this={ref.plan} class="moreSpace">
-    {#await axios.get('json/plan.json')}
-      A moment please
+    {#await axios.get(proxy + 'json/plan.json')}
+      Un moment s'il vous plaît...
     {:then res}
       <PlanPage {res} />
     {:catch error}
-      Something went wrong
+      Une erreur s'est produite.
     {/await}
   </div>
 </div>
