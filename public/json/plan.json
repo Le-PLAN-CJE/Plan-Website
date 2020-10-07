@@ -2,7 +2,7 @@
   {
     "title": "Environnement",
     "color": "#1d8f10",
-    "description": "L'environnement, c'est ça le PLAN",
+    "description": "Un Collège vert, c'est ça le PLAN",
     "measures": [
       {
         "title": "Jardin sur le toit",
@@ -21,7 +21,7 @@
   {
     "title": "Vie Étudiante",
     "color": "#ff6f00",
-    "description": "Une vie étudiante épanouie, c'est ça le PLAN",
+    "description": "Une vie étudiante riche, animée et diversifiée, c'est ça le PLAN",
     "measures": [
       {
         "title": "Les clubs",
@@ -48,7 +48,7 @@
   {
     "title": "Arts et culture",
     "color": "#14648f",
-    "description": "Plus de reconnaissance pout les arts, c'est ça le PLAN",
+    "description": "Valoriser nos artistes, c'est ça le PLAN",
     "measures": [
       {
         "title": "Gallerie en ligne",
@@ -67,7 +67,7 @@
   {
     "title": "Sports",
     "color": "#d41a1a",
-    "description": "Plus de reconnaissance pout les sports, c'est ça le PLAN",
+    "description": "Plus de reconnaissance pour les Aigles, c'est ça le PLAN",
     "measures": [
       {
         "title": "Jardin sur le toit",
