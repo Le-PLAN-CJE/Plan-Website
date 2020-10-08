@@ -37,7 +37,7 @@
   }
 </style>
 
-<Navbar />
+<Navbar {proxy} />
 
 <div
   bind:this={ref.accueil}
@@ -67,7 +67,6 @@
       Un moment s'il vous plaît...
     {:then res}
       <VisionPage {res} />
-      allo
     {:catch error}
       Une erreur s'est produite.
     {/await}

@@ -28,7 +28,7 @@
     {#each res.data as folder}
       <li>
         <p>{folder.description}</p>
-        <ul uk-accordion="multiple: true">
+        <ul uk-accordion="multiple: true" style="border-bottom: 1px solid">
           {#each folder.measures as measure}
             <li
               style="margin: 0; border: 1px solid #111; border-bottom: 1px solid
