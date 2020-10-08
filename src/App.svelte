@@ -50,7 +50,7 @@
   <h1
     style="background: rgba(128,16,16,0.90); padding: 20px;"
     class="uk-width-1-3@m uk-text-left uk-margin-auto-vertical">
-    Le Plan
+    Le PLAN
   </h1>
 
 </div>
