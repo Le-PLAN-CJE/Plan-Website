@@ -65,7 +65,7 @@
       },
       {
         "title": "Semaines de la diversité",
-        "description": "Nous sommes tous.tes différent.e.s les un.e.s des autres. Une chance, c’est ce qui rend le monde si intéressant! Vous imaginez-vous un monde où tout le monde serait pareil? Pour célébrer cette variété qui rend Jean-Eudes et le monde si riches, nous souhaitons créer une semaine de la diversité, qui aurait deux objectifs: premièrement, tenter de comprendre ce que « diversité » veut dire pour des adolescents. Deuxièmement, permettre à chacun de se faire voir et de s’exprimer. Que vous soyez un club de Donjon&Dragon, des élèves faisant partie de la communauté LGBTQ+, des élèves originaires du Maroc, l’équipe de futsal féminine de secondaire 3 ou l’équipe de Génie en Herbe de secondaire 4, nous y aurions tous.tes une place. Parce que, après tout, « normal », ça n’existe pas.",
+        "description": "Nous sommes tous.tes différent.e.s les un.e.s des autres. Une chance, c’est ce qui rend le monde si intéressant! Vous imaginez-vous un monde où tout le monde serait pareil? Pour célébrer cette variété qui rend Jean-Eudes et le monde si riches, nous souhaitons créer une semaine de la diversité, qui aurait deux objectifs: premièrement, tenter de comprendre ce que « diversité » veut dire pour des adolescents. Deuxièmement, permettre à chacun de se faire voir et de s’exprimer. Que vous soyez un club de Donjon&Dragon, des élèves faisant partie de la communauté LGBTQ+, des élèves originaires du Maroc, l’équipe de futsal féminine de secondaire 3 ou l’équipe de Génie en Herbe de secondaire 4, nous y aurions tous.tes une place. Parce que, après tout, « normal », ça n’existe pas. /n Semaine sur l’histoire des Premières Nations Cette semaine, la mort tragique de Joyce Echaquan à l’hôpital de Joliette a ébranlé non seulement le Canada, mais le monde entier. Comment se fait-il que, en 2020, une chose aussi horrible soit encore possible? Pour comprendre cela, il faut se pencher sur les siècles de racisme systémique, de cruauté, de tentatives d’assimilation et de discrimination intense envers les Premières Nations du Canada. Nous souhaitons donc mettre en place une Semaine sur l’histoire des Premières Nations, afin de permettre aux élèves et membres du corps professoral et administratif du Collège d’avoir une nouvelle perspective sur l’histoire dérangeante des communautés autochtones au Canada et de sensibiliser toute la communauté du Collège à leur situation encore très difficile. Que ce soit avec des expositions dans l’école, avec des visionnements de vidéos et documentaires en classe ou avec la venue de conférenciers, nous souhaitons fournir le plus d’information possible afin de s’assurer que tous comprennent l’ampleur et l’importance de ce problème canadien. /n Semaine sur l’histoire des Noirs Depuis mai 2020, des manifestations font rage partout dans le monde pour le mouvement Black Lives Matter. Évidemment, toutes nos vies ont la même valeur! Mais d’où vient ce mouvement? Comment s’est déroulée la lutte pour les droits civiques au Canada? Quelle est la véritable histoire de l’esclavage au Canada? Quelle est la situation de violence policière envers les noirs chez nous? Autant de questions auxquelles nous ne connaissons pas nécessairement les réponses en tant que jeunes. Il est donc primordial d’instaurer une Semaine sur l’histoire des Noirs à l’école avec des conférences, visionnements de documentaires et expositions, afin de permettre une meilleure compréhension de cet enjeu consternant. ",
         "state": "Validé"
       },
       {
@@ -80,14 +80,32 @@
         "imageURL": ""
       },
       {
-        "title": "",
-        "description": "",
+        "title": "Créer une version de Collège dans la Cité pour les élèves de 5ème secondaire",
+        "description": "Ah, Collège dans la Cité.... Des amis, des défis, de bagels, des rires... Et si vous pouviez revivre ça en secondaire 5, avec des nouvelles activités et dans des lieux différents? Nous souhaiterions implémenter une nouvelle version de cette activité afin de permettre aux élèves de découvrir une nouvelle partie de leur ville. Par exemple, l’île Ste-Hélène, Griffintown, etc.",
         "state": "Validé",
         "imageURL": ""
       },
       {
-        "title": "",
-        "description": "",
+        "title": "Favoriser et faciliter la création de clubs étudiants",
+        "description": "Dans ces temps troubles et étranges, il est plus que jamais important de socialiser et d’avoir des moyens de socialisation plus accessibles. Et quoi de mieux pour socialiser que de se retrouver sur zoom avec des gens qui partagent une passion commune et qui désirent en discuter ou faire une activité qui y est reliée? Nous souhaitons donc favoriser la création de ces clubs; tout élève qui souhaiterait en créer un pourrait communiquer avec un membre du parti et nous promettons de l’aider à fonder ce club. Que ce soit en aidant avec l’administration, la publicité... Nous sommes ouverts aux idées! ",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Créer une infolettre de la cafétéria",
+        "description": "Nous avons tous un met préféré à la cafétéria. Pour certains c’est le bœuf bourguignon, pour d’autres c’est le pudding à la vanille. Pour éviter aux élèves la tragédie de manquer leur met préféré à la cafétéria, nous voulons créer une infolettre de la cafétéria sous la forme de messages portail hebdomadaires afin de partager le menu de la semaine. Bien sûr, l’infolettre ne serait envoyée aux élèves qu’à leur demande, parce que il y a déjà bien trop de pourriels dans nos vies.",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Cours à l’extérieur",
+        "description": "Imaginez-vous ceci: c’est une belle journée de septembre, il fait doux, le Soleil brille, le ciel est bleu... Et vous êtes tragiquement coincés à l’intérieur dans un cours de français, à discuter d’un roman en groupe. Et si vous le faisiez dehors? Ne serait-ce pas plus agréable de discuter du symbolisme de la quête du héros du roman au soleil, assis sur le gazon? La réponse est oui, bien sûr! Nous proposons donc d’installer un système de récompense, pour que les classes méritantes puissent parfois passer une période dehors, en travaillant. Bien entendu, certains cours ne pourraient se dérouler dehors, mais c’est possible de le faire avec certains cours, par exemple ceux de travail en équipe ou de discussion.",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Produire un bilan de mi-année",
+        "description": "Si jamais le Plan est élu au Conseil Général des Élèves, nous nous engageons à produire un bilan de mi-année afin de permettre aux élèves de savoir ce que nous aurons réalisé et mis en place durant la première moitié de notre mandat. En effet, l’objectif du Plan est de servir les intérêts des élèves, il nous semblerait donc incongru de ne pas partager avec ceux-ci nos actions politiques et nos réussites.",
         "state": "Validé",
         "imageURL": ""
       }
@@ -99,15 +117,21 @@
     "description": "Valoriser nos artistes, c'est ça le PLAN",
     "measures": [
       {
-        "title": "Gallerie en ligne",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "Commencé",
+        "title": "Concours d’art",
+        "description": "Le collège regorge d’élèves étant des artistes accomplis, mais qui ne sont pas nécessairement dans une concentration artistique. Nous souhaitons donc mettre en place un concours d’art ouvert à tous.tes, où les œuvres en lice seraient publiées en ligne, sous le couvert de l’anonymat. Les élèves voteraient pour leur œuvre préférée et l’œuvre ayant cumulée le plus de voix et son créateur ou sa créatrice seraient dévoilés à la fin. L’anonymat permettrait un vote avec un biais de popularité minimal et l’entrée ouverte à tous.tes permettrait un ensemble d’œuvres présentées le plus varié possible.",
+        "state": "Validé",
         "imageURL": ""
       },
       {
-        "title": "Portfolios virtuels",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations",
+        "title": "Midi-Arts",
+        "description": "Les concentrations d’art au Collège sont remplies d’élèves très talentueux, mais nous ne voyons pas assez leurs réalisations. Nous proposons donc de mettre en place des midi-arts, où il y aurait exposition des réalisations artistiques (peintures, sculptures, photographies, maquettes de scène, costumes, etc), des micro-concerts des élèves des concentrations et options musique, ainsi que des projections des réalisations des élèves de la concentration Cinéma. ",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Renommer le studio de danse",
+        "description": "Mme Josée Hardy a enseigné la danse au Collège pendant plus de 20 ans et elle a pris sa retraite l’an dernier. Afin d’honorer son dévouement au Collège et son excellence, nous souhaitons renommer les studio de danse en son honneur: le studio de danse Hardy. ",
+        "state": "Validé",
         "imageURL": ""
       }
     ]
@@ -118,15 +142,15 @@
     "description": "Plus de reconnaissance pour nos Aigles, c'est ça le PLAN",
     "measures": [
       {
-        "title": "Jardin sur le toit",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations",
+        "title": "Mettre les noms des athlètes sur les chandails/dossards des Aigles",
+        "description": "",
+        "state": "Validé",
         "imageURL": ""
       },
       {
-        "title": "Jardin sur le toit",
-        "description": "Un jardin sur le toit, c'est ça le PLAN",
-        "state": "En négociations",
+        "title": "Mettre plus en valeur les réussites de nos athlètes",
+        "description": "",
+        "state": "Validé",
         "imageURL": ""
       }
     ]
