@@ -18,7 +18,7 @@
         "name": "Justin Paradis",
         "level": "5",
         "roles": ["Vice-président", "Responsable des finances"],
-        "imageURL": "https://drive.google.com/uc?export=view&id=1W7IgGQX-c__eyku9Pk6Af_pcUL_S-hrc"
+        "imageURL": "https://drive.google.com/uc?export=view&id=1NoJ9uJlfXSvI0b3uh7KFEcYBHUfa_3PO"
       },
       {
         "name": "Ines Merotto",
@@ -107,28 +107,6 @@
         "level": "3",
         "roles": ["Conseiller"],
         "imageURL": "https://drive.google.com/uc?export=view&id=1Umxwoia_LGE5wUzU_h4-x1jkTTyHjT80"
-      }
-    ]
-  },
-  {
-    "title": "Secondaire 2 et 1",
-    "members": [
-      {
-        "name": "Farida Halawa",
-        "level": "2",
-        "roles": ["Conseillère"],
-        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
-      }
-    ]
-  },
-  {
-    "title": "Remerciements",
-    "members": [
-      {
-        "name": "Wei Heng Jiang",
-        "level": "5",
-        "roles": ["Création du Site Web"],
-        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       }
     ]
   }

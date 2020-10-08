@@ -1,0 +1,25 @@
+,
+  {
+    "title": "Secondaire 2 et 1",
+    "members": [
+      {
+        "name": "Farida Halawa",
+        "level": "2",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      }
+    ]
+  }
+
+,
+  {
+    "title": "Remerciements",
+    "members": [
+      {
+        "name": "Wei Heng Jiang",
+        "level": "5",
+        "roles": ["Création du Site Web"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      }
+    ]
+  }
