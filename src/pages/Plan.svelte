@@ -43,7 +43,9 @@
               <div
                 class="uk-accordion-content"
                 style="margin-top:0; padding: 15px; color: #111;">
-                <p>{measure.description}</p>
+                <p>
+                  {@html measure.description}
+                </p>
               </div>
             </li>
           {/each}
