@@ -6,30 +6,78 @@
         "name": "Bogdan-A. Sava",
         "level": "5",
         "roles": ["Président"],
-        "imageURL": "https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/120793337_986270121872500_348292481190959263_n.jpg"
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       },
       {
         "name": "Sofia Forlini",
         "level": "5",
         "roles": ["Vice-présidente"],
-        "imageURL": "https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/120793337_986270121872500_348292481190959263_n.jpg"
-      }
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Justin Paradis",
+        "level": "5",
+        "roles": ["Vice-président", "Responsable des finances"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Ines Merotto",
+        "level": "5",
+        "roles": ["Responsable des Arts"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Mathieu Claude-Giroux",
+        "level": "5",
+        "roles": ["Responsable de niveau, secondaire 5"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Émilie Maillette",
+        "level": "5",
+        "roles": ["Responsable des Sports"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Thomas Cardinal-Sirois",
+        "level": "5",
+        "roles": ["Secrétaire"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Nada Halawa",
+        "level": "5",
+        "roles": ["Responsable de la Vie étudiante"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
     ]
   },
   {
     "title": "Secondaire 4",
     "members": [
       {
-        "name": "Justin Paradis",
-        "level": "5",
-        "roles": ["Vice-Président", "Responsable des finances"],
-        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+        "name": "Catherine Lamoureux-Schmidt",
+        "level": "4",
+        "roles": ["Responsable de l'Environnement"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       },
       {
-        "name": "Wei Heng Jiang",
-        "level": "5",
-        "roles": ["Conseiller", "Responsable des technologies"],
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+        "name": "Camille Primeau-Cardinal",
+        "level": "4",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Rafaëlle Montplaisir",
+        "level": "4",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Alicia Phommasak",
+        "level": "4",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       }
     ]
   },
@@ -37,16 +85,28 @@
     "title": "Secondaire 3",
     "members": [
       {
-        "name": "Justin Paradis",
-        "level": "5",
-        "roles": ["Vice-Président", "Responsable des finances"],
-        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+        "name": "Alexis Orsini",
+        "level": "3",
+        "roles": ["Conseiller"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       },
       {
-        "name": "Wei Heng Jiang",
-        "level": "5",
-        "roles": ["Conseiller", "Responsable des technologies"],
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
+        "name": "Stella Forlini",
+        "level": "3",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Raphaël Bordeleau",
+        "level": "3",
+        "roles": ["Conseiller"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
+      },
+      {
+        "name": "Arthur Cardinal-Sirois",
+        "level": "3",
+        "roles": ["Conseiller"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       }
     ]
   },
@@ -54,17 +114,11 @@
     "title": "Secondaire 2 et 1",
     "members": [
       {
-        "name": "Justin Paradis",
-        "level": "5",
-        "roles": ["Vice-Président", "Responsable des finances"],
-        "imageURL": "https://babelio.com/users/AVT_Rene-Levesque_8764.jpeg"
+        "name": "Farida Halawa",
+        "level": "2",
+        "roles": ["Conseillère"],
+        "imageURL": "https://drive.google.com/uc?export=view&id=1TDxoLFm_D6mpmGjFXzkDUPnpUk1zOqtF"
       },
-      {
-        "name": "Wei Heng Jiang",
-        "level": "5",
-        "roles": ["Conseiller", "Responsable des technologies"],
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg"
-      }
     ]
   },
   {
