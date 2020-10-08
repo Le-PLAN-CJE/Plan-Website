@@ -48,15 +48,9 @@
   height: calc(100vh - 60px)">
 
   <h1
-    style="background: rgba(128,16,16,0.75); padding: 20px;"
+    style="background: rgba(128,16,16,0.90); padding: 20px;"
     class="uk-width-1-3@m uk-text-left uk-margin-auto-vertical">
-    Parti des
-    <br />
-    Labadens
-    <br />
-    Actionnistes et
-    <br />
-    Novateurs
+    Le Plan
   </h1>
 
 </div>
