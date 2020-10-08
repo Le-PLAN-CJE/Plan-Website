@@ -3,6 +3,11 @@
 </script>
 
 <h2>Équipe</h2>
+<p
+    style="color: gray; font-family: merriweather; font-size: 3rem;
+    vertical-align: middle; text-align: center;">
+    Voter pour une équipe dévouée et engagée, c'est ça le Plan.
+  </p>
 <div
   class="uk-grid-column-small uk-grid-row-large uk-child-width-1-2
   uk-child-width-1-3@s uk-child-width-1-4@m uk-child-width-1-5@l uk-text-center

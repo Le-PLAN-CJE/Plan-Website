@@ -5,9 +5,9 @@
 <h2>Plan</h2>
 <div style="width:100%; height: 40vh; background: #000)">
   <p
-    style="color: white; font-family: merriweather; font-size: 3rem;
+    style="color: gray; font-family: merriweather; font-size: 3rem;
     vertical-align: middle; text-align: center;">
-    Un Collège à notre image, c'est ça le plan.
+    Voter pour des mesures concrètes, c'est ça le Plan.
   </p>
   <ul
     class="uk-subnav uk-subnav-pill uk-flex-center uk-text-center
