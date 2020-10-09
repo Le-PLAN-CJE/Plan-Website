@@ -65,7 +65,7 @@
       },
       {
         "title": "Semaines de la diversité",
-        "description": "Nous sommes tous différents les uns des autres. Une chance, c’est ce qui rend le monde si intéressant! Vous imaginez-vous un monde où tout le monde serait pareil? Pour célébrer cette variété qui rend Jean-Eudes et le monde si riches, nous souhaitons créer une semaine de la diversité, qui aurait deux objectifs: premièrement, tenter de comprendre ce que « diversité » veut dire pour des adolescents. Deuxièmement, permettre à chacun de se faire voir et de s’exprimer. Peu importe qui vous êtes et d’où vous venez, vous serez accueilli.e à bras ouverts. \n\n Semaine sur l’histoire des Premières Nations \n Cette semaine, la mort tragique de Joyce Echaquan à l’hôpital de Joliette a ébranlé non seulement le Canada, mais le monde entier. Comment se fait-il que, en 2020, une chose aussi horrible soit encore possible? Pour comprendre cela, il faut se pencher sur les siècles de racisme systémique, de cruauté, de tentatives d’assimilation et de discrimination intense envers les Premières Nations du Canada. Nous souhaitons donc mettre en place une Semaine sur l’histoire des Premières Nations, afin de permettre aux élèves et membres du corps professoral et administratif du Collège d’avoir une nouvelle perspective sur l’histoire dérangeante des communautés autochtones au Canada et de sensibiliser toute la communauté du Collège à leur situation encore très difficile. Que ce soit avec des expositions dans l’école, avec des visionnements de vidéos et documentaires en classe ou avec la venue de conférenciers, nous souhaitons fournir le plus d’information possible afin de s’assurer que tous comprennent l’ampleur et l’importance de ce problème canadien. \n\n Semaine sur l’histoire des Noirs \n Depuis mai 2020, des manifestations font rage partout dans le monde pour le mouvement Black Lives Matter. Mais d’où vient ce mouvement? Comment s’est déroulée la lutte pour les droits civiques au Canada? Quelle est la véritable histoire de l’esclavage au Canada? Quelle est la situation de violence policière envers les noirs chez nous? Autant de questions auxquelles nous ne connaissons pas nécessairement les réponses en tant que jeunes. Il est donc primordial d’instaurer une Semaine sur l’histoire des Noirs à l’école avec des conférences, visionnements de documentaires et exposition afin de permettre une meilleure compréhension de cet enjeu consternant. ",
+        "description": "Nous sommes tous différents les uns des autres. Une chance, c’est ce qui rend le monde si intéressant! Vous imaginez-vous un monde où tout le monde serait pareil? Pour célébrer cette variété qui rend Jean-Eudes et le monde si riches, nous souhaitons créer une semaine de la diversité, qui aurait deux objectifs: premièrement, tenter de comprendre ce que « diversité » veut dire pour des adolescents. Deuxièmement, permettre à chacun de se faire voir et de s’exprimer. Peu importe qui vous êtes et d’où vous venez, vous serez accueilli.e à bras ouverts. <br><br> Semaine sur l’histoire des Premières Nations <br> Cette semaine, la mort tragique de Joyce Echaquan à l’hôpital de Joliette a ébranlé non seulement le Canada, mais le monde entier. Comment se fait-il que, en 2020, une chose aussi horrible soit encore possible? Pour comprendre cela, il faut se pencher sur les siècles de racisme systémique, de cruauté, de tentatives d’assimilation et de discrimination intense envers les Premières Nations du Canada. Nous souhaitons donc mettre en place une Semaine sur l’histoire des Premières Nations, afin de permettre aux élèves et membres du corps professoral et administratif du Collège d’avoir une nouvelle perspective sur l’histoire dérangeante des communautés autochtones au Canada et de sensibiliser toute la communauté du Collège à leur situation encore très difficile. Que ce soit avec des expositions dans l’école, avec des visionnements de vidéos et documentaires en classe ou avec la venue de conférenciers, nous souhaitons fournir le plus d’information possible afin de s’assurer que tous comprennent l’ampleur et l’importance de ce problème canadien. <br><br> Semaine sur l’histoire des Noirs <br> Depuis mai 2020, des manifestations font rage partout dans le monde pour le mouvement Black Lives Matter. Mais d’où vient ce mouvement? Comment s’est déroulée la lutte pour les droits civiques au Canada? Quelle est la véritable histoire de l’esclavage au Canada? Quelle est la situation de violence policière envers les noirs chez nous? Autant de questions auxquelles nous ne connaissons pas nécessairement les réponses en tant que jeunes. Il est donc primordial d’instaurer une Semaine sur l’histoire des Noirs à l’école avec des conférences, visionnements de documentaires et exposition afin de permettre une meilleure compréhension de cet enjeu consternant. ",
         "state": "Validé"
       },
       {
@@ -123,6 +123,12 @@
         "imageURL": ""
       },
       {
+        "title": "Galerie d’Art virtuelle",
+        "description": "Sur le site CJE Nouvelles, des articles seraient dédiés à présenter les œuvres d’art des élèves-artistes du Collège grâce à la fonction « Galerie ». Cela permettrait de vraiment présenter toutes les œuvres désirées et non seulement un nombre limité par l’espace présent sur les murs du Collège. Ainsi, tous.tes les élèves d’art auraient la reconnaissance qu’ils méritent grâce à leur travail appliqué.",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
         "title": "Midi-Arts",
         "description": "Les concentrations d’art au Collège sont remplies d’élèves très talentueux, mais nous ne voyons pas assez leurs réalisations. Nous proposons donc de mettre en place des midi-arts, où il y aurait exposition des réalisations artistiques (peintures, sculptures, photographies, maquettes de scène, costumes, etc), des micro-concerts des élèves des concentrations et options musique, ainsi que des projections des réalisations des élèves de la concentration Cinéma. ",
         "state": "Validé",
@@ -139,6 +145,18 @@
         "description": "Au Collège, il y a beaucoup d’élèves très curieux qui adorent apprendre sur tous les sujets possibles. Donc, nous proposons de mettre en place des conférences sur des sujets variés allant de la traversée de l’Atlantique à la rame jusqu’à la politique afin que ces élèves puissent satisfaire une portion de cette soif de savoir. Vu la situation actuelle, ces conférences pourraient devoir être données par Teams ou Zoom.",
         "state": "Validé",
         "imageURL": ""
+      },
+      {
+        "title": "Amorcer les discussions avec la direction pour qu’il y ait un espace dédié au Génie en Herbe",
+        "description": "Jusqu’en 2016, il y avait un local dédié au Génie en Herbe au Collège. En ce moment, les questionnaires de Génie en Herbe, les trophées et les machines sont conservés dans une armoire du 336. Pour permettre une meilleure organisation et un meilleur déroulement de cette activité, nous souhaitons qu’il y ait au Collège un local (probablement partagé avec d’autres activités ou concentrations) qui serait en grande partie dédié à cette activité et à son déroulement.",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Valoriser les succès de nos artistes et de nos équipes culturelles",
+        "description": "Tout le monde sait que le Collège a gagné le Bol d’Or en 2018. Mais combien d’entre nous connaissons les succès des équipes d’impro? Ou des ensembles de musique? Ou des Génie en Herbe? Ou des concentrations de danse? Pour remédier à ce problème, nous proposons de faire en sorte qu’un des objectif principaux de CJE Nouvelles soit de promouvoir les succès de tous les Aigles, de l’équipe d’impro jusqu’à l’équipe de futsall féminine de secondaire 3 en passant par les génies en herbe de secondaire 1.",
+        "state": "Validé",
+        "imageURL": ""
       }
     ]
   },
@@ -147,6 +165,12 @@
     "color": "#d41a1a",
     "description": "Plus de reconnaissance pour nos Aigles, c'est ça le PLAN",
     "measures": [
+      {
+        "title": "Création d’un système d’inscriptions et de communication pour les séances de musculation libre",
+        "description": "Souvent, il arrive que les élèves désirant utiliser la salle de musculation se heurtent à une porte fermée ou à une salle réservée pour une équipe sportive. Nous proposons donc de mettre en ligne l’horaire des disponibilités de la salle de musculation, de même que de mettre en place un système d’inscription pour éviter qu’il n’y ait pas 200 personnes qui se retrouvent en même temps à vouloir utiliser la salle de musculation. <br> *Pour le moment, les gymnases et salles d’entraînement des zones rouges sont fermées. Ces mesures seraient donc pour un futur plus ou moins proche et non pour l’immédiat.* ",
+        "state": "Validé",
+        "imageURL": ""
+      },
       {
         "title": "Instaurer les noms de famille sur les chandails des Aigles",
         "description": "Vous êtes le numéro 10 de votre équipe de soccer? Vous êtes le numéro 31 de l’équipe de hockey? Vous êtes le numéro 26 au Volleyball? Enfin, votre numéro sera associé à votre nom de famille, grâce aux étiquettes qui l’indiquera. Ainsi, nous pourrons toutes et tous associer votre nom au talent que vous redevez.",
@@ -162,6 +186,12 @@
       {
         "title": "Organisation de tournois de Spikeball",
         "description": "Un des sports qui monte le plus en popularité en ce moment est certainement le Spikeball. Agilité, précision et technique sont au rendez-vous dans ce sport très envoûtant. Au Plan, on veut instaurer des tournois de Spikeball, afin que vous puissiez vous épanouir dans une discipline compétitive et amusante.",
+        "state": "Validé",
+        "imageURL": ""
+      },
+      {
+        "title": "Création d’une équipe de Handball",
+        "description": "Le Handball est un sport d’équipe motivant et amusant, qui pourrait plaire à la plupart des élèves. C’est pourquoi nous proposons d’offrir aux élèves la possibilité de faire partie d’une équipe de Handball. Cette équipe ne serait probablement pas compétitive et il s’agirait d’une activité parascolaire.",
         "state": "Validé",
         "imageURL": ""
       }
